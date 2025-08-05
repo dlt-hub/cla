@@ -14,16 +14,6 @@ By contributing to dltHub, you agree to the terms outlined in the [CLA](./CLA.md
 
 ---
 
-## ✉️ Submitting Contributions
-
-When submitting contributions (e.g., pipelines or source addition requests):
-
-* Follow the [Contribution Email Template](link-to-template).
-* Ensure you include all required details (pipeline description, source/destination, or documentation for source requests).
-* By sending the contribution email, you confirm your agreement to the [CLA](./CLA.md).
-
----
-
 ## ❓ Why a CLA?
 
 A CLA:
